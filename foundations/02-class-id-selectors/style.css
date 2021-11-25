@@ -1,0 +1,21 @@
+
+.c {
+    color: #000000;
+    background-color: hsl(350, 100%, 88%);
+    font-family: verdana, sans-serif;
+}
+#n2 {
+    color: 	rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#n4 {
+    color: black;
+    background-color: #90EE90;
+    font-weight: bold;
+    font-size:  24px;
+}
+
+.c3 {
+    font-size:  24px;
+}
